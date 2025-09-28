@@ -34,14 +34,14 @@ Built in **Power BI** using:
 
 ---
 
-## 🔗 Data Sources
+## Data Sources
 - [UK Land Registry Price Paid Data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 - [ONS Postcode Directory (ONSPD)](https://geoportal.statistics.gov.uk/)
 - [InsideAirbnb London Listings](http://insideairbnb.com/get-the-data.html)
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone/download this repo. 
 2. Open `Airbnb_ROI_Dashboard.pbix` in **Power BI Desktop**.
 3. Refresh data (if local CSVs are connected).
@@ -52,7 +52,7 @@ Built in **Power BI** using:
 
 ---
 
-## 💡 Insights
+## Insights
 - Central London boroughs Westminster, Kensington & Chelsea have the **highest purchase prices** but still yield solid ROI due to high occupancy.
 - Payback periods across London average ~18 years, but vary significantly by borough.
 - Scenario testing shows how cleaning costs and management fees can reduce ROI by **1–2% Net Yield**.
