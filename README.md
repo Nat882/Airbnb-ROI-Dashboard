@@ -59,7 +59,7 @@ Built in **Power BI** using:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Power BI** (DAX, Power Query, What-if Parameters)
 - **Python/SQL** (optional for preprocessing, if you used it)
 - **GitHub** for version control and sharing
