@@ -21,15 +21,17 @@ Built in **Power BI** using:
 
 ## Screenshots
 ### Overview Page
-<img width="1189" height="659" alt="image" src="https://github.com/user-attachments/assets/a807e109-12a3-4019-87d2-6353c9662bb9" />
+<img width="1207" height="661" alt="image" src="https://github.com/user-attachments/assets/6a4bb07a-6db8-4446-afa9-695911cca8d1" />
+
 
 
 ### Map Page
-<img width="1219" height="650" alt="image" src="https://github.com/user-attachments/assets/b143d00a-e395-4ade-9461-abfc288894b5" />
+<img width="1210" height="666" alt="image" src="https://github.com/user-attachments/assets/dedb8a00-2221-43f3-bea8-9dc5bf910c0a" />
+
 
 
 ### Simulator
-<img width="1229" height="687" alt="image" src="https://github.com/user-attachments/assets/de97b2f0-db33-4d67-a683-ee395f931da8" />
+<img width="1208" height="644" alt="image" src="https://github.com/user-attachments/assets/bc883722-ae7e-402b-a7b0-f51d01ce5892" />
 
 
 ---
